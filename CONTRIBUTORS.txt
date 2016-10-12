@@ -1,0 +1,15 @@
+# People who have agreed to one of the CLAs and can contribute patches.
+# The AUTHORS file lists the copyright holders; this file lists people.
+# For example, IBM employees are listed here but not in AUTHORS, because IBM
+# holds the copyright.
+#
+# Names should be added to this file as:
+# Name <email address>
+
+Abdón Rodríguez Davila <a@abdonrd.com>
+Fran Cabrera <franxu@gmail.com>
+Ismael Faro Sertage <isf@zurich.ibm.com>
+Iván Durán Martínez <ivan.duran@me.com>
+Jesús Pérez Rubio <jesusprubio@gmail.com>
+Jorge Carballo <jelcaf@gmail.com>
+Paco Martín Fernández <fmartinfdez@gmail.com>
